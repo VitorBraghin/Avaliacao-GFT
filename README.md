@@ -1,2 +1,2 @@
 # Avaliacao-GFT
- Exercicios GFT.
+ Exercicio1 GFT.
