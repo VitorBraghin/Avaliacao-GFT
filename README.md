@@ -1,0 +1,2 @@
+# Avaliacao-GFT
+ Exercicios GFT.
